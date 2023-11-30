@@ -12,7 +12,7 @@ from abc import ABC, abstractmethod
 from sklearn.datasets import (
     fetch_rcv1,
     fetch_california_housing,
-    load_boston,
+    # load_boston,
 )
 from sklearn.preprocessing import LabelEncoder
 
